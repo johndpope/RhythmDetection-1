@@ -1,10 +1,3 @@
-//
-//  AudioFileSource.cpp
-//  OnsetReal
-//
-//  Created by Minwei Gu on 8/28/13.
-//
-//
 
 #include "AudioFileSource.h"
 
